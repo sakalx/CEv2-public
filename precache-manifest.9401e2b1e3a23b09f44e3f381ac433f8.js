@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "05c64688652b288352e002d3d25fa830",
+    "revision": "4d858bbb5e8fd5366deefe538e424e5a",
     "url": "favicon/.cache"
   },
   {
@@ -200,11 +200,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "index.html"
   },
   {
-    "revision": "d2b5e496dac40d3e8b06",
+    "revision": "9aaee0da142a87c8cd8d",
     "url": "js/main.bundle.js"
   },
   {
-    "revision": "623282b6b379f6812ede",
+    "revision": "c7a2197e2c31535b13e6",
     "url": "js/node_vendors.bundle.js"
   },
   {
@@ -247,7 +247,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/FA_Gray.png"
   },
   {
-    "revision": "ca256583bd10d44bd3b8ffb2dafe1832",
+    "revision": "6adaf1f1ca35bc13a1df07c90b1d3e3e",
     "url": "static/Hero.jpg"
   },
   {
@@ -259,8 +259,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/LATimes_Gray.png"
   },
   {
-    "revision": "5d4a00ae9d44da9b63f586e57387c9aa",
-    "url": "static/Laptop.png"
+    "revision": "935597db2a1eb4f04d2b7e29ad159d9d",
+    "url": "static/Laptop_Companies.png"
+  },
+  {
+    "revision": "99779a7f6c2047934514eb2955c57324",
+    "url": "static/Laptop_Employees.png"
   },
   {
     "revision": "cfc71440758275673269eee35cc27ff7",
