@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4d858bbb5e8fd5366deefe538e424e5a",
+    "revision": "63bd5ba0b2dd20e38187ada71f240c77",
     "url": "favicon/.cache"
   },
   {
@@ -200,11 +200,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "index.html"
   },
   {
-    "revision": "9aaee0da142a87c8cd8d",
+    "revision": "25fb5e8cc829478636fb",
     "url": "js/main.bundle.js"
   },
   {
-    "revision": "c7a2197e2c31535b13e6",
+    "revision": "fd08fbcf554bdd014b21",
     "url": "js/node_vendors.bundle.js"
   },
   {
@@ -235,8 +235,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/CE_Header_Logo.png"
   },
   {
-    "revision": "f68b5181b9d6ab95d3558337119d53e4",
-    "url": "static/Educational.png"
+    "revision": "67876fcd298f8fe51ee2c79042942c84",
+    "url": "static/Education_Phone.png"
+  },
+  {
+    "revision": "71682c08a5b33db4438124b2ac103e48",
+    "url": "static/Education_Success.jpg"
+  },
+  {
+    "revision": "fd51140f04f59ff26cf6cc2957802483",
+    "url": "static/Educational.jpg"
   },
   {
     "revision": "ce0c61908c2939e2042930cb0b1ecd18",
@@ -281,14 +289,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "45a30f01e90b9a41c662813552216636",
     "url": "static/Logo_LATimes_White.png"
-  },
-  {
-    "revision": "5fb9dce9ef9107f8106bc049ac41642b",
-    "url": "static/Phone.png"
-  },
-  {
-    "revision": "5237eb82c92dfe0118218dd46599c000",
-    "url": "static/Success.jpg"
   },
   {
     "revision": "f9206124b041b38c786e68511fc8a04a",
