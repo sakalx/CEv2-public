@@ -36,19 +36,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "icons/ios/icon_180x180.efc905064a699b579593b0ecfd6195b8.png"
   },
   {
-    "revision": "7b44b1181e944012540b3fd656193a1b",
+    "revision": "d9eb3242ed6c55f73ecadc2ca94f9028",
     "url": "index.html"
   },
   {
-    "revision": "4bb2a2ebadd4e3541ec9",
+    "revision": "7b1bb27e756a43aa5089",
     "url": "js/main.bundle.js"
   },
   {
-    "revision": "aabaad7c1da672d8cab3",
-    "url": "js/node_vendors.bundle.js"
-  },
-  {
-    "url": "manifest.7f0e3920def3f0b9573aa1e20f97b79f.json"
+    "url": "manifest.0e1d846d6d579942a61d18efc1e50f10.json"
   },
   {
     "revision": "5fd8f62236485a1f3804e46187b9605a",

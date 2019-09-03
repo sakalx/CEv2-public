@@ -72,6 +72,6 @@
   "display": "standalone",
   "start_url": "/",
   "description": "Carver Edison works with public companies to increase stock plan participation by providing interest-free ESPP loans.",
-  "background_color": "#f28a1b",
+  "background_color": "#fff",
   "theme_color": "#ffffff"
 }
