@@ -232,16 +232,72 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "icons/ios/icon_180x180.efc905064a699b579593b0ecfd6195b8.png"
   },
   {
-    "revision": "28ed4077744df7505c9c8bb9c3ec70c6",
+    "revision": "34d6bbdcd4b802e1d727c8cf3cafbd9b",
     "url": "index.html"
   },
   {
-    "revision": "9279def6349b0fd4f60d",
-    "url": "js/main.bundle.js"
+    "revision": "e383b3fa28aa4b06c849",
+    "url": "js/0.bundle.js"
   },
   {
-    "revision": "49846a6d2afa6f4961d5",
-    "url": "js/node_vendors.bundle.js"
+    "revision": "527f3a588295bf389d76",
+    "url": "js/1.bundle.js"
+  },
+  {
+    "revision": "116dcbf09ed4966608e2",
+    "url": "js/10.bundle.js"
+  },
+  {
+    "revision": "265b6b9e4dbfc4146177",
+    "url": "js/11.bundle.js"
+  },
+  {
+    "revision": "8f4771928272bf170039",
+    "url": "js/12.bundle.js"
+  },
+  {
+    "revision": "ab56a8a02ab612564555",
+    "url": "js/13.bundle.js"
+  },
+  {
+    "revision": "65f72a3e5fbf1ec6a765",
+    "url": "js/14.bundle.js"
+  },
+  {
+    "revision": "fc1b52f370efb1a59b90",
+    "url": "js/15.bundle.js"
+  },
+  {
+    "revision": "551a88cdc49cc73e5106",
+    "url": "js/3.bundle.js"
+  },
+  {
+    "revision": "bdba97cd3463c3d49c6c",
+    "url": "js/4.bundle.js"
+  },
+  {
+    "revision": "7d8b3aaf2663117c55a5",
+    "url": "js/5.bundle.js"
+  },
+  {
+    "revision": "49c06bff8bc38050da61",
+    "url": "js/6.bundle.js"
+  },
+  {
+    "revision": "16fe43dee85f6d171596",
+    "url": "js/7.bundle.js"
+  },
+  {
+    "revision": "0773106f7e670eb3e764",
+    "url": "js/8.bundle.js"
+  },
+  {
+    "revision": "a6f041fe8859ece1a9c4",
+    "url": "js/9.bundle.js"
+  },
+  {
+    "revision": "0a74c3d71da47b38c005",
+    "url": "js/main.bundle.js"
   },
   {
     "url": "manifest.a9c77cbbc8098cf2fcdbec90610cdbe0.json"
@@ -265,6 +321,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "374aec31c30c3c68c1a5c064289e1bdb",
     "url": "static/CE_Header_Logo.png"
+  },
+  {
+    "revision": "5de598c190852e117d7410b7740b8813",
+    "url": "static/CE_Logo_Stack.png"
   },
   {
     "revision": "67876fcd298f8fe51ee2c79042942c84",
@@ -293,6 +353,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "49da607daf967746997ca1c251e22c88",
     "url": "static/Employees_Laptop3.png"
+  },
+  {
+    "revision": "995d4a05109c1e8b6da305b1a86cdbcb",
+    "url": "static/Etrade_logo.png"
   },
   {
     "revision": "94b98769b0e3917b556231531b5645ad",
@@ -345,6 +409,42 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "10380f1226e815c8e45c2e3a7874e9a6",
     "url": "static/Press_WhitePapers.jpg"
+  },
+  {
+    "revision": "ed11dca4a546e71a799f014f60d8730d",
+    "url": "static/Sept2019_Headshots.png"
+  },
+  {
+    "revision": "16bae48eaa1c53090dd7b000ffdaad7e",
+    "url": "static/Sept2019_Headshots2.png"
+  },
+  {
+    "revision": "e84422886bd3160d97076a3f44975a0b",
+    "url": "static/Sept2019_Headshots3.png"
+  },
+  {
+    "revision": "0f151c5283df271c9182f35922be27d7",
+    "url": "static/Sept2019_Headshots4.png"
+  },
+  {
+    "revision": "de91f9c8bb276b1233beb7b123f924f9",
+    "url": "static/Sept2019_Headshots5.png"
+  },
+  {
+    "revision": "cec529c2fc7f96597c172b1c3d6c532a",
+    "url": "static/Sept2019_Headshots6.png"
+  },
+  {
+    "revision": "057c2b1e227275ea5620d497b3b32eee",
+    "url": "static/Sept2019_Headshots7.png"
+  },
+  {
+    "revision": "11493250dbf05653db85a6ad25b53fa7",
+    "url": "static/Sept2019_Headshots8.png"
+  },
+  {
+    "revision": "a744653592c8fa7e9eda6049f08cf272",
+    "url": "static/Serhii-smile.gif"
   },
   {
     "revision": "f9206124b041b38c786e68511fc8a04a",
