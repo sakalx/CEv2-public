@@ -232,134 +232,134 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "icons/ios/icon_180x180.efc905064a699b579593b0ecfd6195b8.png"
   },
   {
-    "revision": "d593045860835dc8c7c8806ea41019e9",
+    "revision": "5e323e9370c03caddb4145f5a1ccf37f",
     "url": "index.html"
   },
   {
-    "revision": "6af4c0b344c7a159eb97",
+    "revision": "287c565b847fceb8e2f7",
     "url": "js/0.bundle.js"
   },
   {
-    "revision": "1cbd99d17b8f4b2e27f6",
+    "revision": "6ee00f8ba0340f9dd5cc",
     "url": "js/10.bundle.js"
   },
   {
-    "revision": "eb6ab4337ed7292d2c3a",
+    "revision": "c055f7f732b791680b7c",
     "url": "js/11.bundle.js"
   },
   {
-    "revision": "322e2c82df976d5cfe86",
+    "revision": "42884e987ca46fb58595",
     "url": "js/12.bundle.js"
   },
   {
-    "revision": "664386e16b770dd036fb",
+    "revision": "5aed0f34cfcab7ae785a",
     "url": "js/13.bundle.js"
   },
   {
-    "revision": "2003a020938b35486443",
+    "revision": "7a2fb18d8e7252af56bd",
     "url": "js/14.bundle.js"
   },
   {
-    "revision": "622c9cc46b5630615344",
+    "revision": "c02718910878448a6062",
     "url": "js/2.bundle.js"
   },
   {
-    "revision": "fd7bf3fbb495c77648d4",
+    "revision": "362cbab49d0d36cb92b1",
     "url": "js/3.bundle.js"
   },
   {
-    "revision": "b92f7ab9bdbfac69490f",
+    "revision": "5148cc0594d960f66653",
     "url": "js/4.bundle.js"
   },
   {
-    "revision": "31858f22100f50daeb13",
+    "revision": "e21d7347eb79e6c5ef18",
     "url": "js/5.bundle.js"
   },
   {
-    "revision": "31ccf8f29760c3ea266e",
+    "revision": "7c83e4d506716f141381",
     "url": "js/6.bundle.js"
   },
   {
-    "revision": "092960fbaf378588ffab",
+    "revision": "28fa691ad17ea5ddff7f",
     "url": "js/7.bundle.js"
   },
   {
-    "revision": "f820fba997ec562655c1",
+    "revision": "d3f35b0da459580ae78d",
     "url": "js/8.bundle.js"
   },
   {
-    "revision": "c164027915c4915c54e6",
+    "revision": "f11165c9136d08cc625f",
     "url": "js/9.bundle.js"
   },
   {
-    "revision": "5220da47e7ab6c1448d3",
+    "revision": "b24fd0618dff0a8d3cc7",
     "url": "js/main.bundle.js"
   },
   {
     "url": "manifest.a9c77cbbc8098cf2fcdbec90610cdbe0.json"
   },
   {
-    "revision": "57d02a700e823acc21678253b38b43e7",
+    "revision": "b43f3b291c9e9bc4c81b56d6daab9343",
     "url": "static/AS_CE19-min.jpg"
   },
   {
-    "revision": "3fa953536c7fb4010ceb69a8110d8803",
+    "revision": "5fd8f62236485a1f3804e46187b9605a",
     "url": "static/Advantage.jpg"
   },
   {
-    "revision": "ca64f5e9a07ce42db5eda27440089a16",
+    "revision": "27bea6bf76f1cb36a87ca722f06809fa",
     "url": "static/Aon_Gray.png"
   },
   {
-    "revision": "2643ee8518d158ec20225168c7dd39dc",
+    "revision": "093d85078f8b133c93744b91583365dc",
     "url": "static/BenefitsPro_Gray.png"
   },
   {
-    "revision": "59f12c079aac36ec56ad2292269d5932",
+    "revision": "f4fa4f949b5951d6b530829a230d37c3",
     "url": "static/Bloomberg_Gray.png"
   },
   {
-    "revision": "53ce17a57b4396503cf988d8f8f40614",
+    "revision": "25725c6606007db3516807e48ad420ce",
     "url": "static/CE_Header_Logo.png"
   },
   {
-    "revision": "9f1031ca88ee7b8639f754da7a972c0d",
+    "revision": "5de598c190852e117d7410b7740b8813",
     "url": "static/CE_Logo_Stack.png"
   },
   {
-    "revision": "c9554761779639024ecf14b3a5389a8b",
+    "revision": "21aa201e6df2302bba7aa3e8aec4c216",
     "url": "static/Companies_Dashboard-min.png"
   },
   {
-    "revision": "f1dc2c0caa6ae1e5725cf69a4f5766e1",
+    "revision": "67876fcd298f8fe51ee2c79042942c84",
     "url": "static/Education_Phone.png"
   },
   {
-    "revision": "584a8de22b5cd964fbe047d1ea66ad30",
+    "revision": "2e88de0b8f2cc5f3f943bfc041286721",
     "url": "static/Employees_Dashboard-min.png"
   },
   {
-    "revision": "08f5bac648d7ad9a323eeac152422236",
+    "revision": "bc2e2407a9513b878676ed8d58de2c58",
     "url": "static/Employees_Laptop1.png"
   },
   {
-    "revision": "f93a981bc1299264f2a5e5303acb066b",
+    "revision": "e65eb3ed41dfb99e3fa3e7686016a287",
     "url": "static/Employees_Laptop2.png"
   },
   {
-    "revision": "18518671097a0e0053166a5560ceb6b3",
+    "revision": "49da607daf967746997ca1c251e22c88",
     "url": "static/Employees_Laptop3.png"
   },
   {
-    "revision": "f21133a432ca11de7387ab048877384d",
+    "revision": "e4be87d166d7dc24b4c32d0ba11c0e8c",
     "url": "static/Etrade_Img_Confirmation.jpg"
   },
   {
-    "revision": "ff2763bb5e8f983acdb99a49a499a871",
+    "revision": "995d4a05109c1e8b6da305b1a86cdbcb",
     "url": "static/Etrade_Logo.png"
   },
   {
-    "revision": "15b5bd0e57e28c590210821327f9176b",
+    "revision": "94b98769b0e3917b556231531b5645ad",
     "url": "static/FA_Gray.png"
   },
   {
@@ -367,7 +367,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/FA_Logo_White.png"
   },
   {
-    "revision": "09b8ac7e82524764564f0575a6bcde96",
+    "revision": "f210fa7009c41d90ce18181294ac18df",
     "url": "static/Forbes_Logo_Gray.png"
   },
   {
@@ -375,11 +375,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/Forbes_Logo_White.png"
   },
   {
-    "revision": "9037234eb0a133337db88ac5c6f806ec",
+    "revision": "5bee1ed0143a1ebe4dd1634404f89a33",
     "url": "static/Img_Hero_Desktop.jpg"
   },
   {
-    "revision": "75f2c3ba604f90820c741b3c354ab839",
+    "revision": "ab05851cc2ed950cb8a94bf7b88eb1f4",
     "url": "static/Img_Hero_Mobile.jpg"
   },
   {
@@ -387,7 +387,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/InvestmentNews_Gray.png"
   },
   {
-    "revision": "c70c4ee3d1ed7523bf1fdc567fc5ae02",
+    "revision": "c691596777dce45fd637071f554fe3e0",
     "url": "static/LATimes_Gray.png"
   },
   {
@@ -395,7 +395,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/Logo_Bloomberg_White.png.png"
   },
   {
-    "revision": "6cea2f5636d147fd0e8528f48df7903b",
+    "revision": "53e227ba4e9f7197ff5bad6891cad73a",
     "url": "static/PS_CE19-min.jpg"
   },
   {
@@ -403,19 +403,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/Press_Logos.jpg"
   },
   {
-    "revision": "0f043ed3feca6fc45e7a4e7d6bac8e00",
+    "revision": "92cc6b9807600d231e17d4fd761aefdb",
     "url": "static/Press_OneSheeters.jpg"
   },
   {
-    "revision": "a51ddf686d3a875b714548c6ef41b490",
+    "revision": "3c62df7dcf69943f21bf99f9f7daa701",
     "url": "static/Press_WhitePapers.jpg"
   },
   {
-    "revision": "4bb51c8db9597690c74f010c6e5d3999",
+    "revision": "a9a3462fc883b9642819312226827a64",
     "url": "static/SG_CE19-min.jpg"
   },
   {
-    "revision": "cd5aceef8669c368c2be3186c84a0b2b",
+    "revision": "37bb5ba36d92b45adb59f76ba4430c48",
     "url": "static/SP_CE19-min.jpg"
   },
   {
@@ -427,11 +427,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/TS_Logo_White.png"
   },
   {
-    "revision": "59f0a323a855c6b40903263b78b68343",
+    "revision": "408cb8aa0a88da78f1ff81dc89ad525f",
     "url": "static/Team.jpg"
   },
   {
-    "revision": "58eb069ffd6804fb2bb67425662e0273",
+    "revision": "60f104dc19b47039dbc16854abf89b46",
     "url": "static/ZeroHedge_Gray.png"
   },
   {
@@ -439,11 +439,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/debug.gif"
   },
   {
-    "revision": "409abf0e340b23dfa65bf5b476019863",
+    "revision": "6142dbc0616dd5a17a8bd1cdfc9e627c",
     "url": "static/email-send-96.png"
   },
   {
-    "revision": "0c8fd773fec6135a51cc7ebed87dc05f",
+    "revision": "0a49797ae52a71e969f640aa3af4dbaf",
     "url": "static/email-send-error-96.png"
   }
 ]);
